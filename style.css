@@ -1,0 +1,82 @@
+
+
+
+
+
+.r1 {
+    padding-top: 90px;
+    width: 100%;
+    height: 400px;
+}
+
+.c1, .c2, .c3, .c4 {
+    width: 200px;
+    height: 430px;
+    background-color: white;
+}
+
+.imgcard {
+    height: 80%;
+    width: 80%;
+    background-color: white;
+    margin-left: 10%;
+    margin-top: 13%;
+}
+
+.i1 {
+    background-image: url("/img/mp_20230219_ff_desktopsinglecategory_desktop_379x304_1._SY304_CB612639047_.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.i2 {
+    background-image: url("img/Fuji_Dash_SmartWatch_2X._SY608_CB639922111_.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.i3 {
+    background-image: url("/img/XCM_CUTTLE_1475305_2610205_758x608_2X_en_US._SY608_CB608600856_.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.i4 {
+    background-image: url("/img/XCM_CUTTLE_1559454_3018199_758x608_2X_en_US._SY608_CB592739737_.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.main {
+    background-color: rgb(198, 198, 198);
+    width: 100%;
+    height: 37rem;
+}
+
+.col-9 {
+    margin: 15px;
+    margin-top: 10px;
+}
+
+body {
+    background-color: rgb(198, 198, 198);
+}
+
+@media (max-width: 767.98px) {
+    .main {
+        height: 120rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .c1, .c2, .c3, .c4 {
+        width: 100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .c1, .c2, .c3, .c4 {
+        width: 24%;
+    }
+}
+
