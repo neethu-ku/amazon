@@ -24,7 +24,7 @@
 }
 
 .i1 {
-    background-image: url("/img/mp_20230219_ff_desktopsinglecategory_desktop_379x304_1._SY304_CB612639047_.jpg");
+    background-image: url("img/mp_20230219_ff_desktopsinglecategory_desktop_379x304_1._SY304_CB612639047_.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -36,13 +36,13 @@
 }
 
 .i3 {
-    background-image: url("/img/XCM_CUTTLE_1475305_2610205_758x608_2X_en_US._SY608_CB608600856_.jpg");
+    background-image: url("img/XCM_CUTTLE_1475305_2610205_758x608_2X_en_US._SY608_CB608600856_.jpg");
     background-position: center;
     background-size: cover;
 }
 
 .i4 {
-    background-image: url("/img/XCM_CUTTLE_1559454_3018199_758x608_2X_en_US._SY608_CB592739737_.jpg");
+    background-image: url("img/XCM_CUTTLE_1559454_3018199_758x608_2X_en_US._SY608_CB592739737_.jpg");
     background-position: center;
     background-size: cover;
 }
